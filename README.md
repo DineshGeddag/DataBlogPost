@@ -1,6 +1,6 @@
 # DataBlogPost
 
-https://app.site123.com/versions/2/wizard/dashboard.php?wu=5f7a1a7bb534e-5f7a1a7bb5389-5f7a1a7bb53c3
+Please find my blog post here(https://medium.com/@dineshgedda/air-bnb-10e73c4b0b26)
 
 
 # Context
